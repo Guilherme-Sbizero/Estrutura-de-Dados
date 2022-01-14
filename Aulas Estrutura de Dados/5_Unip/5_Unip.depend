@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1630330134 source:c:\users\guilh\onedrive\documentos\meusprojetos\aulas\5_unip\main.c
+	<stdio.h>
+	<stdlib.h>
+
