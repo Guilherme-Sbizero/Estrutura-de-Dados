@@ -1,2 +1,3 @@
 # Estrutura-de-Dados
-ED-UNIP-2021 Repositório com conteúdo das aulas de Estrutura de Dados (ED).
+
+Repositório com conteúdo das aulas de Estrutura de Dados (ED) do 4º Semestre.
